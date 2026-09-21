@@ -246,4 +246,4 @@ This repository serves as the official landing page for Honkai: Star Rail. The s
 **Get the most recent version of Honkai: Star Rail today!**
 
 ---
-**Last updated:** 2026-09-20 22:50:49 UTC
+**Last updated:** 2026-09-21 00:42:53 UTC
